@@ -1,0 +1,6 @@
+[submodule "HexaLands-Backend"]
+	path = HexaLands-Backend
+	url = https://github.com/AtincUtku/HexaLands-Backend
+[submodule "HexaLands-Frontend"]
+	path = HexaLands-Frontend
+	url = https://github.com/AtincUtku/HexaLands-Frontend
